@@ -1,0 +1,15 @@
+{
+  "name": "sergio.soy",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "repository": "https://github.com/sergionsz/sergio.soy.git",
+  "author": "Sergio NS <eng.sergio.ns@gmail.com>",
+  "scripts": {
+    "start": "serve"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
